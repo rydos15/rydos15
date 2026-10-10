@@ -1,5 +1,5 @@
 
-<!--# Ry Dos
+ Ry Dos
 ### Music Technologist · Python Tools · MIDI & Workflow Integration
 
 I build practical tools that connect software, hardware, and creative workflows.
